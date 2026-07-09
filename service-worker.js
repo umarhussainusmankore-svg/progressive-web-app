@@ -12,6 +12,7 @@ const CORE_ASSETS = [
   './icons/icon-144x144.svg',
   './icons/icon-152x152.svg',
   './icons/icon-192x192.svg',
+  './icons/icon-192x192.png',
   './icons/icon-384x384.svg',
   './icons/icon-512x512.svg',
   './icons/icon-512x512-maskable.svg'
